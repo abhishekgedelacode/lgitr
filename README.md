@@ -1,0 +1,2 @@
+# lgitr
+learning git  
